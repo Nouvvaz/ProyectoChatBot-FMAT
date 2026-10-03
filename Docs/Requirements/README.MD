@@ -8,7 +8,7 @@ An institutional conversational agent designed to centralize and automate studen
 
 | # | Deliverable | Due Date | Status | Resource / Link |
 | :-: | :--- | :-: | :-: | :--- |
-| 1 | Phase 1: Requirements Specification | 01/10/2026 | Completed | [Watch Phase 1 Video](TU_ENLACE_DE_VIDEO_AQUI) |
+| 1 | Phase 1: Requirements Specification | 01/10/2026 | Completed | [Watch Phase 1 Video] https://canva.link/sq8vxoj7gi1wfud |
 
 ---
 
@@ -18,7 +18,7 @@ An institutional conversational agent designed to centralize and automate studen
 | :--- | :--- | :--- | :--- |
 | **Angel Eduardo Morales Ruiz** | Project Lead & Software Architect | Project coordination, architecture design, RAG pipeline planning, requirements engineering, and repository governance. | `a25216432@alumnos.uady.mx` |
 | **Melchor Emmanuel Ya Pérez** | UI/UX Designer & Frontend Engineer | User interface research, design system, responsive widget wireframes, client-side interactions, and accessibility compliance[cite: 15]. | `a25216423@alumnos.uady.mx` |
-| **Fernando Gael Ramos Barabato** | Backend Developer & QA Engineer | RESTful API endpoint implementation, intent data schema definition, automated testing suites, and CI workflow management[cite: 11, 14]. | *[Pending]* |
+| **Fernando Gael Ramos Barabato** | Backend Developer & QA Engineer | RESTful API endpoint implementation, intent data schema definition, automated testing suites, and CI workflow management[cite: 11, 14]. | `a25216434@alumnos.uady.mx`|
 
 ---
 
